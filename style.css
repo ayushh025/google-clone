@@ -1,1 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 @import "tailwindcss";
+@layer components{
+    .btn{
+        @apply bg-gray-50 border-1 border-transparent hover:border-gray-300 rounded-md py-1.5 px-3.5 text-[14px] text-gray-800 cursor-pointer
+    }
+}
+@theme{
+    --font-open: "Open Sans", sans-serif;
+}
