@@ -23,4 +23,4 @@ It replicates the visual layout of the real Google homepage (desktop view only).
 
 ## 🚀 Live Demo
 
-**[View Project on Vercel](https://blinkit-clone-ayush.vercel.app)**  
+**[View Project on Vercel](https://google-clone-ayush-25.vercel.app/)**  
